@@ -12,4 +12,7 @@ int maain(){ // this is the main() funtion it is call by opreting system
 int sub_tow_number(int a,int b){
   return(a>b?a-b:b-a;);
 }
-  
+  // First product
+void first(){
+print("Hello world");
+}
