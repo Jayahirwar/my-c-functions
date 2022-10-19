@@ -16,4 +16,3 @@ int sub_tow_number(int a,int b){
 void first(){
 print("Hello world");
 }
-// This is the functions 
